@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+    padding: 18px;
+}
+
+.footer {
+    background-color: black;
+    margin-top: 46.3rem;
+    padding: 30px;
+}
+
+.footer_contacts {
+    color: greenyellow;
+    text-align: center;
+}
+
+.color-green {
+    color: greenyellow;
+}
+
+.text-center {
+    text-align: center;
+}
