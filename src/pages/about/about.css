@@ -1,0 +1,36 @@
+.main_about {
+    margin: 0 16px;
+
+    /* margin-left: 16px;
+    margin-right: 16px; */
+}
+
+.about_title {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.group_button {
+    display: flex;
+    justify-content: center;
+}
+
+.button_back-home {
+    text-decoration: none;
+}
+
+.about_button_pdf {
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background: #0f4013;
+    color: rgb(235, 238, 153);
+    cursor: pointer;
+    /* text-align: center;
+    align-items: center; */
+}
+
+.about_button_pdf:hover {
+    font-size: 40px;
+}
+
