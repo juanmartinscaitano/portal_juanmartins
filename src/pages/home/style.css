@@ -30,3 +30,8 @@ body {
 .text-center {
     text-align: center;
 }
+
+.homebutton {
+    color: rgb(122, 12, 122);
+    text-decoration: none;
+}

@@ -1,7 +1,7 @@
 function downloadCv() {
     let link = document.createElement("a");
     link.download = "juanmartinscaitano_cv";
-    link.href = "../../../assets/banner_bambushop.pdf";
+    link.href = "../../../assets/juan_curriculo.pdf";
     link.click();
     link.remove();
     
